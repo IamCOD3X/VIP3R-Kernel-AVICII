@@ -10,7 +10,7 @@
 ## Downloads:
   ### Version 1.0 Supports HID Support, Fast Charging, Better Battery Optimization
   
-  <b> LINK: [FLASHABLE ZIP Ver-1.0](https://mega.nz/file/XvJEGLTT#0-k--3MQOYRre6mg9VRzxSZg9xYJyqROmRfWLLElhwI) For TWRP. <br>
+  <b> LINK: [FLASHABLE ZIP Ver-1.0](https://mega.nz/file/Wm4TmSQQ#FpA19BCRsQm9WEPIxca8-QBUzFu9eEIGr3JMwZa21_k) For TWRP. <br>
   
 ## Source Code:
   LINK: [KERNEL-SOURCE-CODE](https://github.com/OnePlusOSS/android_kernel_oneplus_sm7250/tree/oneplus/sm7250_s_12.1_oneplus_nord)
