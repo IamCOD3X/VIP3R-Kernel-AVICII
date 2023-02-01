@@ -13,7 +13,7 @@
   <b> LINK: [FLASHABLE ZIP Ver-1.0](https://mega.nz/file/XvJEGLTT#0-k--3MQOYRre6mg9VRzxSZg9xYJyqROmRfWLLElhwI) For TWRP. <br>
   
 ## Source Code:
-  LINK: [KERNEL-SOURCE-CODE][https://github.com/OnePlusOSS/android_kernel_oneplus_sm7250/tree/oneplus/sm7250_s_12.1_oneplus_nord]
+  LINK: [KERNEL-SOURCE-CODE](https://github.com/OnePlusOSS/android_kernel_oneplus_sm7250/tree/oneplus/sm7250_s_12.1_oneplus_nord)
   
 ## Version Information
   Status: Stable
